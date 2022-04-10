@@ -169,7 +169,7 @@ function draw(){
             meteorGroup[i].destroy();
             missileGroup.destroyEach();
             blastsound.play(); 
-            score=score+50;  
+            score=score+5;  
         }
     }
    }
